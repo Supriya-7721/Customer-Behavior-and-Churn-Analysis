@@ -74,7 +74,7 @@ Developed an end-to-end customer analytics solution to analyze customer behaviou
 - Reduce product return rates through quality and fulfillments improvements.
 ---
 ## Dashboard Pages
-### Page 1: Executive Overview
+### Page 1: End-to-End Customer Analysis
 - KPI tracking
 - Revenue Analyis
 - Customer Segmentation
@@ -85,11 +85,9 @@ Developed an end-to-end customer analytics solution to analyze customer behaviou
 - Demographics Analysis
 - Retention Insights
 ## Dashboard Preview
-### Executive Overview
-![ Dashboard Pge 1]
-( customer_analytics_dashboard_page1.png)
+### End-to-End Customer Analysis
+![ Dashboard Page 1]( customer_analytics_dashboard_page1.png)
 ### Customer Deep Dive Analysis
-![Dashboard Page 2]
-(Deep_dive_analysis_page2.png)
-![Dashboard Page 3]
-(executive_strategic_overview_page3.png)
+![Dashboard Page 2](Deep_dive_analysis_page2.png)
+Executive Overview
+![Dashboard Page 3](executive_strategic_overview_page3.png)
