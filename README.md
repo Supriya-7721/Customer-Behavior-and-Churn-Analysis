@@ -84,3 +84,12 @@ Developed an end-to-end customer analytics solution to analyze customer behaviou
 - Customer Behaviour Analysis
 - Demographics Analysis
 - Retention Insights
+## Dashboard Preview
+### Executive Overview
+![ Dashboard Pge 1]
+( customer_analytics_dashboard_page1.png)
+### Customer Deep Dive Analysis
+![Dashboard Page 2]
+(Deep_dive_analysis_page2.png)
+![Dashboard Page 3]
+(executive_strategic_overview_page3.png)
