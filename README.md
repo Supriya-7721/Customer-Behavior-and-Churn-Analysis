@@ -46,7 +46,7 @@ Developed an end-to-end customer analytics solution to analyze customer behaviou
 - Interactive Filter & Drilldowns
 ---
 ## Key Insights
-- Generated **$12.47M revenue from **132K orders** across **8000 customers**.
+- Generated $12.47M revenue from **132K orders** across **8000 customers**.
 - **United States** contributed the highest revenue among all countries.
 - **Organic Search** was the highest revenue-generating acquisition channel.
 - More than **54% of customers preferred mobile devices**, highligting strong mobile engagement.
