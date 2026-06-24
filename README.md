@@ -45,14 +45,6 @@ Developed an end-to-end customer analytics solution to analyze customer behaviou
 - Customer Deep Dive Dashboard
 - Interactive Filter & Drilldowns
 ---
-## Key KPIs
-| KPI | Value |
-| Total Customers | 8,000 |
-| Total Orders | 132K |
-| Total Revenue | $12.47M |
-| Average Order Value | $94.85 |
-| Churn Rate | 0.09% |
----
 ## Key Insights
 - Generated **$12.47M revenue from **132K orders** across **8000 customers**.
 - **United States** contributed the highest revenue among all countries.
